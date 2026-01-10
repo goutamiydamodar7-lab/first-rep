@@ -1,0 +1,30 @@
+.box{
+    
+    height: 100dvh;
+}
+.box1{
+    width: 240px;
+    background-color: brown;
+}
+.box2{
+    width: 100%;
+    background-color: blueviolet;
+    margin: 20px;
+    padding: 40px;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.menu{
+    height: 100px;
+    background-color: red;
+}
+.box3{
+    height: 100%;
+    width: 100%;
+    background-color: aliceblue;
+}
